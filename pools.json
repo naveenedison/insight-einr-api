@@ -32,10 +32,10 @@
 		]
 	},
 	{
-		"poolName": "LTC.TOP",
+		"poolName": "EINR.TOP",
 		"url": "http://",
 		"searchStrings": [
-			"LTC.TOP"
+			"EINR.TOP"
 		]
 	},
 	{
@@ -46,15 +46,15 @@
 		]
 	},
 	{
-	  	"poolName": "ViaLTC",
-	  	"url": "https://www.vialtc.com/",
+	  	"poolName": "ViaEINR",
+	  	"url": "https://www.viaeinr.com/",
 	  	"searchStrings": [
-		  	"/ViaLTC/"
+		  	"/ViaEINR/"
 		]
 	},
 	{
 		"poolName": "TBDice",
-		"url": "http://ltc.tbdice.org/",
+		"url": "http://einr.tbdice.org/",
 		"searchStrings": [
 			"TBDice"
 		]
