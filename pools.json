@@ -39,8 +39,8 @@
 		]
 	},
 	{
-	  	"poolName": "LitecoinPool",
-	  	"url": "https://litecoinpool.org",
+	  	"poolName": "einrcoinPool",
+	  	"url": "https://einrcoinpool.org",
 	  	"searchStrings": [
 		  	"/LP/"
 		]

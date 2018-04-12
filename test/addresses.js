@@ -3,7 +3,7 @@ var sinon = require('sinon');
 var should = require('should');
 var AddressController = require('../lib/addresses');
 var _ = require('lodash');
-var bitcore = require('litecore-lib');
+var bitcore = require('einrcore-lib');
 
 var txinfos = {
   totalCount: 2,
@@ -421,7 +421,7 @@ describe('Addresses', function() {
   describe('/addrs/:addrs/txs', function() {
     it('should have correct data', function(done) {
       var insight = {
-        'totalItems': 1,
+        'totaeinrms': 1,
         'from': 0,
         'to': 1,
         'items': [
@@ -578,7 +578,7 @@ describe('Addresses', function() {
     });
     it('should have trimmed data', function(done) {
       var insight = {
-        'totalItems': 1,
+        'totaeinrms': 1,
         'from': 0,
         'to': 1,
         'items': [
